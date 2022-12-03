@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h1 align="left">Hi 👋, I'm Marcin</h1>
+<h3 align="left">A passionate frontend developer from Gdansk, Poland</h3>
 
 - 📫 How to reach me **kalamarcin@gmail.com**
 
