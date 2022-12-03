@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kalamarcin@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-mk-react.netlify.app/](https://portfolio-mk-react.netlify.app/)
+- 📄 Portfolio: [https://portfolio-mk-react.netlify.app/](https://portfolio-mk-react.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
