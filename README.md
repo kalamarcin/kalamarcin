@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Marcin</h1>
 <h3 align="left">A passionate frontend developer from Gdansk, Poland</h3>
 
-- 📫 How to reach me **kalamarcin@gmail.com**
+- 📫 How to reach me **kalamarcin@gmai1.com**
 
 - 📄 Portfolio: [https://portfolio-mk-react.netlify.app/](https://portfolio-mk-react.netlify.app/)
 
